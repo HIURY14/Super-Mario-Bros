@@ -6,5 +6,7 @@
 <br>
 <h2>utilizei HTML, CSS e JavaScript.</h2>
 
-<img src="https://github.com/HIURY14/Super-Mario-Bros/blob/main/Captura%20de%20tela%202023-11-24%20191559.png?raw=true"> 
+<img src="https://github.com/HIURY14/Super-Mario-Bros/blob/main/Captura%20de%20tela%202023-11-24%20191559.png?raw=true">
+<br>
+<img src="https://github.com/HIURY14/Super-Mario-Bros/blob/main/Captura%20de%20tela%202024-03-09%20160644.png?raw=true">
 
