@@ -4,5 +4,5 @@
 
 </h2>
 <br>
-<h2>utilizei HTML, CSS e JavaScript.
+<h2>utilizei HTML, CSS e JavaScript.</h2>
 
